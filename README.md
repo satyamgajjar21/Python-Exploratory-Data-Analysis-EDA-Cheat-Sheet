@@ -1,9 +1,3 @@
-<p align="center">
-  <a href="https://skills.network" target="_blank">
-    <img src="https://cf-courses-data.s3.us.cloud-object-storage.appdomain.cloud/assets/logos/SN_web_lightmode.png" width="280" alt="Skills Network Logo">
-  </a>
-</p>
-
 <h1 align="center">Exploratory Data Analysis (EDA) Cheat Sheet</h1>
 <p align="center">
   A quick reference for the most common pandas / Matplotlib / Seaborn /
